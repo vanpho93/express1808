@@ -19,5 +19,8 @@
   "homepage": "https://github.com/vanpho93/express1808#readme",
   "dependencies": {
     "express": "^4.15.4"
+  },
+  "devDependencies": {
+    "eslint-config-rallycoding": "^3.2.0"
   }
 }
